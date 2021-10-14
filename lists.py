@@ -4,7 +4,7 @@ Num = Num.split(" ")
 
 print("\nhere comes the numbers\n")
 print(Num[::-1])
-#append
+# to append
 Num.append(input("enter one more "))
 print(Num)
 #to extend
