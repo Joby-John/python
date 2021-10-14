@@ -1,4 +1,4 @@
-#facorial of a number using python
+#facorial of a number using Python
 print("Enter a number to check factorial")
 num = int(input(":"))
 number = num
