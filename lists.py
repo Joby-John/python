@@ -7,7 +7,7 @@ print(Num[::-1])
 #append
 Num.append(input("enter one more "))
 print(Num)
-#extend
+#to extend
 #Num.extend(input("enter more"))
 print(Num)
 #remove
