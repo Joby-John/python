@@ -1,4 +1,4 @@
-#fibonacci number
+#fibonacci Number
 num = int(input("how many fibonacci you want: "))
 i = 1
 if num == 0:
